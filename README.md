@@ -32,4 +32,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub]https://github.com/kj5566/tomato
+- [GitHub]https://github.com/kj5566/vuetify-pomodoro
